@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(201, 201, 201);;
+}
+fieldset{
+    border-color: black;
+    padding: -15px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+figure{
+    text-align: right ;
+}
